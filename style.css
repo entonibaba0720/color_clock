@@ -1,0 +1,15 @@
+* { margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-family: 'Comfortaa', cursive;
+  font-size: 68px;
+  margin-top: -34px;
+  color: #c0c0c0;
+}
